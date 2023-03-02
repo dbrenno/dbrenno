@@ -1,7 +1,7 @@
 ### Olá, Sr./Sra.! Eu sou o David Brenno, prazer! ^_^
 
 - 🧑‍💻 Trabalho com Front-end
-- 🦏 Estudando JavaScript e SQL
+- 🦏 Estudando atualmente: JavaScript, PHP e SQL
 - 🎲 Curiosidade: Sou um bom ouvinte 
 
 <h2>Tecnologias que costumo usar</h2>
